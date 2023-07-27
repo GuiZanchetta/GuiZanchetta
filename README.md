@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, world! 👋 I'm Guilherme Zanchetta
 
-<!--
-**GuiZanchetta/GuiZanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer, tech enthusiast, media and sound artist. Currently pursuing an MA in Sound Studies at UNICAMP.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, C++, Arduino
+- **Frameworks:** Node.js, p5.js
+- **Hardware:** ESP32, Daisy Seed, Raspberry Pi
+- **Tools:** Docker, Git, TouchDesigner, Pure Data, Plug Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- Deep learning with TensorFlow and PyTorch
+- GLSL
+
+## 🤝 Let's Connect!
+- **Portfolio:** [guilhermezanchetta.com](http://guilhermezanchetta.com)
