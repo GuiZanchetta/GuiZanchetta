@@ -11,6 +11,7 @@ A passionate developer, tech enthusiast, media and sound artist. Currently pursu
 ## 🌱 I'm currently learning
 - Deep learning with TensorFlow and PyTorch
 - GLSL
+- FAUST
 
 ## 🤝 Let's Connect!
 - **Portfolio:** [guilhermezanchetta.com](http://guilhermezanchetta.com)
