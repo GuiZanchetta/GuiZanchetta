@@ -13,5 +13,3 @@ A tech enthusiast, media and sound artist. Currently pursuing an MA in Music (So
 - GLSL
 - FAUST
 
-## 🤝 Let's Connect!
-- **Portfolio:** [guilhermezanchetta.com](http://guilhermezanchetta.com)
