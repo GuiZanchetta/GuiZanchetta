@@ -1,6 +1,6 @@
 ### Hello, world! 👋 I'm Guilherme Zanchetta
 
-A tech enthusiast, media and sound artist. Currently pursuing an MA in Music (Sound Studies) at UNICAMP.
+A tech enthusiast, media and sound artist. 
 
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, C++, Arduino
